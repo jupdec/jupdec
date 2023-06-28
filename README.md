@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Meeta+Kapoor;Full+Stack+Software+Developer." alt="Typing SVG" /></a>
 </h1>
 
-<p>I'm a Fullstack developer, currently @ <b>California, USA</b>.</p>
+<p>I'm a Machine Learning Engineer and a MedTech Enthusiast @ <b>California, USA</b>.</p>
 <h3>I can code in ...</h3>
 <p>
   
@@ -62,5 +62,5 @@ of harmful text within enterprise content which has proven to reduce clients' co
 
 <h3>You can find me here...</h3>
 <p>
-  <a href="https://www.linkedin.com/in/meeta-kapoor-b4a59a13b/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/jupdec/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meeta-kapoor-b4a59a13b/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/jupdec/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.behance.net/jupdec" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white%22">
 </p>

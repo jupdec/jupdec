@@ -1,15 +1,15 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Meeta+Kapoor;Machine+Learning+Engineer;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Meeta+Kapoor;Machine+Learning+Engineer;" alt="Typing SVG" /></a>
 </h1>
 
-<p>I'm a Machine Learning Engineer and a MedTech Enthusiast @ <b>California, USA</b>.</p>
+<p>I'm a MedTech Enthusiast with experience in FullStack Development currently diving into Machine Learning and Data Science, located @ <b>California, USA</b>.</p>
 <h3>I can code in ...</h3>
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt ="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=springboot&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=amazonaws&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=black" />

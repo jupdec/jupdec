@@ -9,7 +9,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt ="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=springboot&logoColor=black" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-764ABC?style=for-the-badge&logo=springboot&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=amazonaws&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=black" />

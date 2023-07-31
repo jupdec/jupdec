@@ -2,7 +2,9 @@
 
 <h2 align="center">Software Engineer 👩‍💻 | Med Tech Enthusiast | Love to create 🎨 </h2>
 
+<!-- <p align="center">
 <a><img src = "https://iconscout.com/illustration/work-life-balance-5768408" width="132" height="132"/></a>
+</p> -->
 
 <h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
 
@@ -12,9 +14,11 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
-</a><a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
+</a>
+
+<!-- <a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
 src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
-<br />
+<br /> -->
 
 ## My Socials
 
@@ -27,10 +31,8 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
-</p>
 <a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
-</p>
 <a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
 </p>

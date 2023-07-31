@@ -73,4 +73,4 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 
 <a href="https://github.com/jupdec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupdec&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="jupdec" /></a>
 
-![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif)
+<!-- ![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif) -->

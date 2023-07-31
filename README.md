@@ -2,29 +2,25 @@
 
 <h2 align="center">Software Engineer 👩‍💻 | Med Tech Enthusiast | Love to create 🎨 </h2>
 
-![jupdec](https://user-images.githubusercontent.com/53828745/222882360-9ee89ebf-37e0-4fcb-8c65-7057f09f55f4.gif)
+![jupdec]
 
 
 <h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
 
-- **Work 👩‍💻:** Machine Learning Engineer Intern @ [ResMed](https://www.resmed.com/en-us/healthcare-professional/products-and-support/monitoring-and-data-management/saas-solutions/ 
+- **Work 👩‍💻:** Machine Learning Engineer Intern @ [ResMed]
 
 - **Skills 👀:** Full-stack Developer | Machine Learning | NLP 
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
-
-
-<a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img align="right"
-src="https://img.shields.io/twitter/follow/Bee_Bombshell?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
-/></a><a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
+</a><a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
 src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 <br />
 
 ## My Socials and Portfolio
 
 <p align="center">
-<a href="mailto:mkmeetakapoor@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/53828745/222914795-19c83c5e-1aa4-479d-8a81-221ff89e1025.png" alt="@jupdec" height="32" width="32" /></a>
+<a href="mailto:mkmeetakapoor@gmail.com" target="blank"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/697136336582344786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;    

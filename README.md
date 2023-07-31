@@ -2,12 +2,11 @@
 
 <h2 align="center">Software Engineer 👩‍💻 | Med Tech Enthusiast | Love to create 🎨 </h2>
 
-![jupdec]
-
+<a><img src = "https://iconscout.com/illustration/work-life-balance-5768408" width="132" height="132"/></a>
 
 <h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
 
-- **Work 👩‍💻:** Machine Learning Engineer Intern @ [ResMed]
+- **Work 👩‍💻:** Machine Learning Engineer Intern @ ResMed 
 
 - **Skills 👀:** Full-stack Developer | Machine Learning | NLP 
 
@@ -17,19 +16,24 @@
 src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 <br />
 
-## My Socials and Portfolio
+## My Socials
 
 <p align="center">
 <a href="mailto:mkmeetakapoor@gmail.com" target="blank"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/697136336582344786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
-
+<a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
+</p>
+<a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
+</p>
 
 ## My Skills
 

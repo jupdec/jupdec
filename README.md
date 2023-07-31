@@ -1,65 +1,74 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Meeta+Kapoor;Machine+Learning+Engineer;" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hey there! 👋 I'm Meeta Kapoor</h1>
 
-<p>I'm a MedTech Enthusiast with experience in FullStack Development currently diving into Machine Learning and Data Science, located @ <b>California, USA</b>.</p>
-<h3>I can code in ...</h3>
-<p>
-  
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt ="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-764ABC?style=for-the-badge&logo=springboot&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=black" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
-  <img alt="Distrbiuted Systems" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=v" />
-  <img alt="Cassandra" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=black" /> 
+<h2 align="center">Software Engineer 👩‍💻 | Med Tech Enthusiast | Love to create 🎨 </h2>
+
+![jupdec](https://user-images.githubusercontent.com/53828745/222882360-9ee89ebf-37e0-4fcb-8c65-7057f09f55f4.gif)
+
+
+<h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
+
+- **Work 👩‍💻:** Machine Learning Engineer Intern @ [ResMed](https://www.resmed.com/en-us/healthcare-professional/products-and-support/monitoring-and-data-management/saas-solutions/ 
+
+- **Skills 👀:** Full-stack Developer | Machine Learning | NLP 
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
+
+
+<a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img align="right"
+src="https://img.shields.io/twitter/follow/Bee_Bombshell?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
+/></a><a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
+src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
+<br />
+
+## My Socials and Portfolio
+
+<p align="center">
+<a href="mailto:mkmeetakapoor@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/53828745/222914795-19c83c5e-1aa4-479d-8a81-221ff89e1025.png" alt="@jupdec" height="32" width="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/697136336582344786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
 
-### Education
 
-- 2022 - 2024, Masters in Computer Science @ San Diego State University, California, USA.
+## My Skills
 
-- 2015 - 2019, Bachelors in Computer Science Engineering @ JNTUH, Telangana, India.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>             
 
-### Experience
+<b>My GitHub Stats</b>
 
-- 2023 - Present Machine Learning Engineer Intern @ ResMed
+<div>
 
-- 2021 - 2022, Software Engineer @ Opentext Technologies 
+<a href="http://www.github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api?username=jupdec&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="jupdec's GitHub stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jupdec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jupdec&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 2019 - 2021, Associate Software Engineer @ Opentext Technologies 
+</div>
 
-- 2018 - 2019, Engineering Intern @ Opentext Technologies 
+<a href="https://github.com/jupdec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupdec&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="jupdec" /></a>
 
-##### Software Engineer                                                                          Oct 2021 – July 2022
-- Worked with a team of 4 on OpenText Magellan Risk Guard - AI sensitive data discovery tool used to uncover all forms
-of harmful text within enterprise content which has proven to reduce clients' costs for file storage by 50%
-- Single-handedly developed the initial UI of the product using Angular and enhanced the risk discovery by introducing
--	Mitigated 100% security issues raised by clients and security assistants & directed the security issues assessment framework by making planned use of Blackduck tool and Fortify Security Assistant 
-
-
-##### Associate Software Engineer                                                                                 Jan 2019 – Sept 2021
--	Revamped and modernized the features of OpenText Magellan Business Intelligence and Reporting Tool, by adding themes and HTML5 based charts to Analytical Designer to create more interactive web applications and dashboards
--	Implemented various business intelligence features for Eclipse BIRT tool, upgraded eclipse platform in Analytical designer from 4.8 to 4.12, which involved major feature upgrades in order to migrate to jdk12 from 8
--	Designed the Data Engine using MonetDB to be able to process big data to optimize processing 1 million rows of data in 57 milliseconds 
--	Built a code search tool using OpenGrok and set up an automated daily test suite using Jenkins
--	Produced the Architecture to make our product 100% compliant with Web Content Accessibility Guidelines, delivered keyboard navigation and voice control commands features so that specially abled people can use our product easily 
-
-
-
-##### Engineering Intern                                                                               July 2018 – Jan 2019
--	Coded a Java application handling access to various servers based on client's user personas and roles to control security breech attempts which improved the security compliance by three times
--	Revamped the webservices from SOAP to REST  enhancing the product efficiency by 70%
-
-
-<h3>You can find me here...</h3>
-<p>
-  <a href="https://www.linkedin.com/in/meeta-kapoor-b4a59a13b/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.behance.net/jupdec" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white"><a href="https://www.instagram.com/jupdec/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-</p>
+![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif)

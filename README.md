@@ -1,45 +1,24 @@
-<h1 align="center">Hey there! 👋 I'm Meeta Kapoor</h1>
+<h2 align="center">Hey there! 👋 I'm Meeta Kapoor</h2>
 
-<h2 align="center">Software Engineer 👩‍💻 | Med Tech Enthusiast | Love to create 🎨 </h2>
+[//]: # (<h2 align="left">About Me️</h3>)
+<h2 align="center"> <a href ="https://jupdec.github.io/"> Software Engineer </a>   | <a href = "https://www.behance.net/jupdec"> Artist </a>  | <a href = "https://www.worldskate.org/wrg2019/teams/atleti.html?cognome=Kapoor&disciplina=0&sesso=F&cerca=&team=144#"> Athlete </a> </h2>
 
 <!-- <p align="center">
 <a><img src = "https://iconscout.com/illustration/work-life-balance-5768408" width="132" height="132"/></a>
 </p> -->
 
-<h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
 
-- **Work 👩‍💻:** Machine Learning Engineer Intern @ ResMed 
-
-- **Skills 👀:** Full-stack Developer | Machine Learning | NLP 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
-</a>
 
 <!-- <a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img align="right"
 src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 <br /> -->
 
-## My Socials
-
-<p align="center">
-<a href="mailto:mkmeetakapoor@gmail.com" target="blank"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;    
-<a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;    
-<a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;   
-<a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;   
-<a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;   
-</p>
+## My Interests
+<p>Full Stack Development | MedTech | Machine Learning | NLP | Artificial Intelligence</p>
 
 ## My Skills
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -61,16 +40,36 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>             
+</p>
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
-<div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
 
+<div align="center">
 <a href="http://www.github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api?username=jupdec&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="jupdec's GitHub stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jupdec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jupdec&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 </div>
 
-<a href="https://github.com/jupdec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupdec&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="jupdec" /></a>
+<div align="center">
+<a href="https://github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupdec&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="jupdec" /></a>
+</div>
+
+
+## My Socials
+
+<p align="center">
+<a href="mailto:mkmeetakapoor@gmail.com" target="blank"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
+<a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
+<a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;   
+</p>
 
 <!-- ![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif) -->

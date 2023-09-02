@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 <br /> -->
 
 ## My Interests
-<p>Full Stack Development | MedTech | Machine Learning | NLP | Artificial Intelligence</p>
+<p align="center">Full Stack Development, MedTech, Machine Learning, NLP, Data Analytics, Generative AI</p>
 
 ## My Skills
 

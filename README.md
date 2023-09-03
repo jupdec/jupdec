@@ -44,7 +44,9 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 
 ## My GitHub Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
+<div align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
+</div>
 
 <div align="center">
 <a href="http://www.github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api?username=jupdec&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="jupdec's GitHub stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jupdec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jupdec&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

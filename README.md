@@ -1,7 +1,12 @@
 <h2 align="center">Hey there! 👋 I'm Meeta Kapoor</h2>
 
 [//]: # (<h2 align="left">About Me️</h3>)
-<h2 align="center"> <a href ="https://jupdec.github.io/"> Software Engineer </a>   | <a href = "https://www.behance.net/jupdec"> Artist </a>  | <a href = "https://www.worldskate.org/wrg2019/teams/atleti.html?cognome=Kapoor&disciplina=0&sesso=F&cerca=&team=144#"> Athlete </a> </h2>
+<h2 align="center"> <a href ="https://jupdec.github.io/"> Software Engineer 👩🏻‍💻 </a> 
+
+[//]: # (<a href = "https://www.behance.net/jupdec"> Artist </a> )
+
+[//]: # (<a href = "https://www.worldskate.org/wrg2019/teams/atleti.html?cognome=Kapoor&disciplina=0&sesso=F&cerca=&team=144#"> Athlete </a> )
+</h2>
 
 <!-- <p align="center">
 <a><img src = "https://iconscout.com/illustration/work-life-balance-5768408" width="132" height="132"/></a>

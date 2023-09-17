@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Meeta Kapoor</h2>
 
 [//]: # (<h2 align="left">About Me️</h3>)
-<h2 align="center"> <a href ="https://jupdec.github.io/"> Software Engineer 👩🏻‍💻 </a> 
+<h2 align="center"> <a href ="https://jupdec.github.io/"> Software Developer 👩🏻‍💻 </a> 
 
 [//]: # (<a href = "https://www.behance.net/jupdec"> Artist </a> )
 

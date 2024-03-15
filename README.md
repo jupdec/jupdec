@@ -73,10 +73,10 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
-<a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
 <a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
-</p>
+</p> -->
 
 <!-- ![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif) -->

@@ -49,13 +49,17 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 
 ## My GitHub Stats
 
-<div align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>
-</div>
+[//]: # (<div align="center">)
 
-<div align="center">
-<a href="http://www.github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api?username=jupdec&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="jupdec's GitHub stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jupdec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jupdec&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+[//]: # (<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupdec&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="jupdec" /></a> </p>)
+
+[//]: # (</div>)
+
+[//]: # (<div align="center">)
+
+[//]: # (<a href="http://www.github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api?username=jupdec&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="jupdec's GitHub stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jupdec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jupdec&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>)
+
+[//]: # (</div>)
 
 <div align="center">
 <a href="https://github.com/jupdec"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupdec&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="jupdec" /></a>
@@ -71,10 +75,9 @@ src="https://img.shields.io/github/followers/jupdec?logo=github&style=for-the-ba
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.github.com/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;    
-<a href="https://www.linkedin.com/in/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/kapoormeeta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
-<!-- <a href="https://www.instagram.com/jupdec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;   
+<!--  
 <a href="https://www.behance.net/jupdec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;   
 </p> -->
